@@ -41,10 +41,34 @@ KAVACH AI Pro is a full-stack cybersecurity platform designed to detect modern s
 ## Architecture
 
 See architecture diagram below.
+```mermaid
+flowchart TD
+
+A[User] --> B[React Dashboard]
+
+B --> C[FastAPI Backend]
+
+C --> D[Deepfake Detection]
+C --> E[Voice Anti-Spoofing]
+C --> F[Phishing Detection]
+
+D --> G[PyTorch + OpenCV]
+E --> H[Librosa + ML]
+F --> I[XGBoost + Heuristics]
+
+C --> J[(PostgreSQL)]
+C --> K[(Redis)]
+
+C --> L[PDF Report Engine]
+
+L --> M[Detection Reports]
+```
+
 
 ## Screenshots
 
-(Add screenshots here)
+
+
 
 ## Installation
 
