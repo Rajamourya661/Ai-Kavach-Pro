@@ -66,6 +66,7 @@ L --> M[Detection Reports]
 
 
 ## Screenshots
+<img width="1920" height="1080" alt="SS5_Analytics_Dashboard" src="https://github.com/user-attachments/assets/3c4f50f7-b652-45b8-9411-8fe68bd86161" />
 
 
 
