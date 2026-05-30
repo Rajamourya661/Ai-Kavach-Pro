@@ -1,0 +1,25 @@
+# Model Training Requirements
+# Install: pip install -r model_requirements.txt
+
+# Deepfake
+tensorflow>=2.15.0
+keras>=2.15.0
+opencv-python>=4.9.0
+pillow>=10.2.0
+
+# Voice
+torch>=2.1.2
+torchaudio>=2.1.2
+librosa>=0.10.1
+soundfile>=0.12.1
+
+# Phishing
+xgboost>=2.0.3
+scikit-learn>=1.4.0
+pandas>=2.1.4
+numpy>=1.26.3
+
+# Utilities
+tqdm>=4.66.1
+requests>=2.31.0
+huggingface-hub>=0.20.0
