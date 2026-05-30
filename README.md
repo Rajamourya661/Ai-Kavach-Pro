@@ -66,7 +66,11 @@ L --> M[Detection Reports]
 
 
 ## Screenshots
-<img width="1920" height="1080" alt="SS5_Analytics_Dashboard" src="https://github.com/user-attachments/assets/3c4f50f7-b652-45b8-9411-8fe68bd86161" />
+
+<img width="1846" height="923" alt="SS3_Dashboard" src="https://github.com/user-attachments/assets/9b343c8e-16d7-44d0-8c86-1d52d24cb321" />
+<img width="1140" height="717" alt="SS4_NLP_Notification" src="https://github.com/user-attachments/assets/c5158021-c6ea-47ad-b264-d96b454f62f8" />
+<img width="1073" height="848" alt="SS1_Deepfake_Detection_Result" src="https://github.com/user-attachments/assets/21212d2e-8d57-433a-8e58-ff15d82cc5a9" />
+<img width="1840" height="918" alt="SS5_Analytics_Dashboard" src="https://github.com/user-attachments/assets/14981d39-2c08-4b11-bc4b-e9dd5b597cb0" />
 
 
 
